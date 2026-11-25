@@ -19,3 +19,10 @@ COMPUTER ENGINEERING
 Hey, I like nerdy stuff!
 I'm working on computational redstone, NAND2TETRIS, and making cool projects with microcontrollers!
 PS:I'm still a beginner :]
+
+Skillset:
+Python, C++
+
+Reach me at:
+~working on it!
+
